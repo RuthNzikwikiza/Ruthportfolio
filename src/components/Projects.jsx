@@ -37,7 +37,7 @@ export default function Projects() {
       <h2>My Projects</h2>
       <p className="projects-intro">
         Here are some of the projects I've built that showcase my growth and
-        creativity as a software engineer. Each project represents my dedication
+        creativity as a software developer. Each project represents my dedication
         to solving problems through clean code, modern technologies and
         practical solutions.
       </p>

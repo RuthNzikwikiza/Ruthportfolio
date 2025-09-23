@@ -5,7 +5,7 @@ export default function About() {
     <section id="about" className="about">
       <h2>About Me</h2>
       <p>
-         My name is <strong>Ruth Nzikwikiza</strong>, and I'm an software engineer
+         My name is <strong>Ruth Nzikwikiza</strong>, and I'm an software developer
         dedicated to creating impactful digital solutions that solve real-world problems. I'm
         passionate about coding, learning new technologies and building projects that make
         life simpler, smarter and more enjoyable. Throughout my journey in tech, I've embraced
