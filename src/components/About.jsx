@@ -12,7 +12,7 @@ export default function About() {
         challenges as opportunities to grow, constantly improving my skills in both frontend
         and backend development. I enjoy collaborating on innovative projects, experimenting
         with creative ideas and writing clean, efficient code that brings real value to
-        people's lives. Every day, I strive to become a versatile full-stack engineer who
+        people's lives. Every day, I strive to become a versatile full-stack developer who
         contributes meaningfully to the tech community while continuing to learn, explore and
         turn ideas into practical, user-friendly digital experiences.
       </p>
