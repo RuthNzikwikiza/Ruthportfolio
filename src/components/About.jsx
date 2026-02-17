@@ -17,7 +17,7 @@ export default function About() {
         turn ideas into practical, user-friendly digital experiences.
       </p>
        <a
-        href="/assets/Ruth-Resume.pdf"
+        href="/assets/RuthNzikwikiza-Cv.pdf"
         target="_blank"
         rel="noreferrer"
         className="resume-btn"
