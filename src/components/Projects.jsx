@@ -20,7 +20,7 @@ const projects = [
     repo: "https://github.com/RuthNzikwikiza/Emmy-portfolio.git",
     live: "https://emmy-portfolio-smoky.vercel.app/",
     img: "/assets/emmy.jpeg",
-    tech: "React, CSS",
+    tech: "React, CSS, Python, Django",
   },
   {
     title: "Nagahire Fashion Hub",
