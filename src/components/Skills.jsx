@@ -35,20 +35,34 @@ export default function Skills() {
         strengthen soft skills and master the tools and platforms used in real-world projects.
       </p>
 
-      <div className="skills-category">
-        <h3>Technical Skills</h3>
-        <p className="skills-paragraph">{technicalSkills.join(", ")}.</p>
-      </div>
+      <div className="skills-grid">
+        <div className="skills-category">
+          <h3>Technical Skills</h3>
+          <div className="skills-tags">
+            {technicalSkills.map((skill) => (
+              <span key={skill} className="skill-tag">{skill}</span>
+            ))}
+          </div>
+        </div>
 
-      <div className="skills-category">
-        <h3>Soft Skills</h3>
-        <p className="skills-paragraph">{softSkills.join(", ")}.</p>
-      </div>
+        <div className="skills-category">
+          <h3>Soft Skills</h3>
+          <div className="skills-tags">
+            {softSkills.map((skill) => (
+              <span key={skill} className="skill-tag">{skill}</span>
+            ))}
+          </div>
+        </div>
 
-      <div className="skills-category">
-        <h3>Tools & Platforms</h3>
-        <p className="skills-paragraph">{toolsPlatforms.join(", ")}.</p>
+        <div className="skills-category">
+          <h3>Tools & Platforms</h3>
+          <div className="skills-tags">
+            {toolsPlatforms.map((skill) => (
+              <span key={skill} className="skill-tag">{skill}</span>
+            ))}
+          </div>
+        </div>
       </div>
-    </section>
+  </section>
   );
 }
