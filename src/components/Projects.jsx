@@ -25,8 +25,8 @@ const projects = [
   {
     title: "Nagahire Fashion Hub",
     repo: "https://github.com/RuthNzikwikiza/Nagahire-FHF.git",
-    live: "https://nagahire-fhf-wzoh.vercel.app/",
-    img: "/assets/nagahire.jpeg",
+    live: "https://nagahire-fhb-1.onrender.com/",
+    img: "/assets/nagahire.png",
     tech: "React, CSS, Python, Django",
   },
 ];
