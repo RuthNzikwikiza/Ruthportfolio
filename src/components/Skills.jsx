@@ -6,6 +6,8 @@ const technicalSkills = [
   "React",
   "Python",
   "Django",
+  "TypeScript",
+  "Node.js",
   "REST API Integration",
   "Responsive Design"
 ];
