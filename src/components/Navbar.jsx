@@ -9,11 +9,10 @@ export default function Navbar() {
     if (section) {
       section.scrollIntoView({ behavior: "smooth" });
       setActive(id);
-      setMenuOpen(false); // close menu after click
+      setMenuOpen(false); 
     }
   };
 
-  // Update active link on scroll
   useEffect(() => {
     const handleScroll = () => {
       const sections = ["home", "about", "projects", "skills", "contact"];
